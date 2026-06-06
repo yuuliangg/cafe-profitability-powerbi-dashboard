@@ -12,7 +12,7 @@
 
 <img width="1896" height="1068" alt="image" src="https://github.com/user-attachments/assets/d4982063-6ec7-4cc3-ba8b-fe5920da3bea" />
 
-## 4-Rroduct-location-analysis
+## 4-Product-location-analysis
 <img width="1912" height="1066" alt="image" src="https://github.com/user-attachments/assets/f60c0f6f-e4e4-4f99-81d8-6606d2e4ed1f" />
 
 ## 5-Recommendations
