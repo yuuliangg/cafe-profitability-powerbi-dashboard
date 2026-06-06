@@ -50,13 +50,7 @@ cafe-profitability-powerbi-dashboard/
 ├── dashboard/
 │   └── cafe-profitability-dashboard.pbix
 ├── screenshots/
-│   └── add-dashboard-screenshots-here.md
-├── docs/
-│   ├── resume_bullets.md
-│   └── linkedin_post.md
-├── data/
-│   └── README.md
-├── .gitignore
+│   └──screenshots-here.md
 └── README.md
 ```
 
@@ -65,15 +59,6 @@ cafe-profitability-powerbi-dashboard/
 2. Open it using Microsoft Power BI Desktop.
 3. Use the slicers, filters, and report pages to explore profitability, costs, product performance, and operational recommendations.
 
-## Screenshots
-Add screenshots of the main dashboard pages here after exporting them from Power BI Desktop.
-
-Recommended screenshots:
-1. Main KPI overview page
-2. Revenue and profit trend page
-3. Cost breakdown page
-4. Product or location analysis page
-5. Recommendation page
 
 ## Notes
-The dataset is not included if it contains private, school-provided, or confidential information. The `.pbix` file is provided for portfolio demonstration purposes.
+The dataset is not included as it is school-provided
